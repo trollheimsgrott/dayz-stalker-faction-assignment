@@ -1,0 +1,555 @@
+<?xml version="1.0" ?>
+<types>
+<type name="DZRP_Artefact_Soul">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_NightStar">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Meat">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Medusa">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Ice">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Gravi">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_GoldFish">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Kolobok">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_FireBall">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Fire">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Glaz">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Sliz">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_MoonLight">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Flash">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_MamaBus">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Pusto">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Battery">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Oasis">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_StoneFlower">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Cristall">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Compas">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Blood">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_Vyvert1">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+<type name="DZRP_Artefact_MutadeCompass">
+<nominal>1</nominal>
+<lifetime>1800</lifetime>
+<restock>2500</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<usage name="Farm"/>
+<usage name="Firefighter"/>
+<usage name="Hunting"/>
+<usage name="Industrial"/>
+<usage name="Medic"/>
+<usage name="Military"/>
+<usage name="Office"/>
+<usage name="Police"/>
+<usage name="Prison"/>
+<usage name="School"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+</types>
